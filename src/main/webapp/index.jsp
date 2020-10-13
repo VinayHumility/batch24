@@ -1,6 +1,7 @@
 <html>
 <body>
-<h4>Hello World!</h4>
-  <h3>Welcome VinayHumility.</h3>
+<h2>Congratulations.......</h2>
+  <h3>Welcome VinayHumility. you have deployed .war to webserver using ansible playbook..</h3>
+  
 </body>
 </html>
